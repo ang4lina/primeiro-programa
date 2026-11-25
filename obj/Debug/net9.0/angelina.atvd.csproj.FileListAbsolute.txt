@@ -1,0 +1,14 @@
+C:\Users\Aluno\Desktop\angelina.atvd\bin\Debug\net9.0\angelina.atvd.exe
+C:\Users\Aluno\Desktop\angelina.atvd\bin\Debug\net9.0\angelina.atvd.deps.json
+C:\Users\Aluno\Desktop\angelina.atvd\bin\Debug\net9.0\angelina.atvd.runtimeconfig.json
+C:\Users\Aluno\Desktop\angelina.atvd\bin\Debug\net9.0\angelina.atvd.dll
+C:\Users\Aluno\Desktop\angelina.atvd\bin\Debug\net9.0\angelina.atvd.pdb
+C:\Users\Aluno\Desktop\angelina.atvd\obj\Debug\net9.0\angelina.atvd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\angelina.atvd\obj\Debug\net9.0\angelina.atvd.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\angelina.atvd\obj\Debug\net9.0\angelina.atvd.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\angelina.atvd\obj\Debug\net9.0\angelina.atvd.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\angelina.atvd\obj\Debug\net9.0\angelina.atvd.dll
+C:\Users\Aluno\Desktop\angelina.atvd\obj\Debug\net9.0\refint\angelina.atvd.dll
+C:\Users\Aluno\Desktop\angelina.atvd\obj\Debug\net9.0\angelina.atvd.pdb
+C:\Users\Aluno\Desktop\angelina.atvd\obj\Debug\net9.0\angelina.atvd.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\angelina.atvd\obj\Debug\net9.0\ref\angelina.atvd.dll
